@@ -1,34 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
-<leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
-<globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
-	<global_window_position top="50" left="50" height="500" width="700"/>
-	<global_log_window_position top="0" left="0" height="0" width="0"/>
-</globals>
+<leo_header file_format="2"/>
+<globals/>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="metaperl.20191124091501.2" a="E"><vh>Terrence-Monroe: Brannon</vh>
+<v t="metaperl.20220102161942.1"><vh>Startup</vh>
+<v t="metaperl.20220102162253.1"><vh>@settings</vh>
+<v t="metaperl.20220102162342.1"><vh>@bool mod-autosave-active=True</vh></v>
+<v t="metaperl.20220102164759.1"><vh>@int mod-autosave-interval=30</vh></v>
+</v>
+</v>
+<v t="metaperl.20191124091501.2"><vh>DIY Tanks</vh>
+<v t="metaperl.20191128032627.1"><vh>Motivation</vh>
+<v t="metaperl.20220102163527.1"><vh>Zenfloatco</vh>
+<v t="metaperl.20220102163728.1"><vh>Exit threads</vh></v>
+</v>
+</v>
 <v t="metaperl.20191124093052.1"><vh>Social Media Links</vh></v>
-<v t="metaperl.20191128032627.1"><vh>Daily Bread</vh></v>
-<v t="metaperl.20191124100336.1" a="E"><vh>Life Mission and Vision</vh>
-<v t="metaperl.20191124100440.1"><vh>Isolation-Tank-Gnosis</vh></v>
-<v t="metaperl.20191124100629.1"><vh>The Quiet Center</vh></v>
-<v t="metaperl.20191124101243.1"><vh>IRS Slam Dunk</vh></v>
+<v t="metaperl.20191124100336.1"><vh>Models</vh>
+<v t="metaperl.20191124100440.1"><vh>Black Beauty</vh></v>
 </v>
-<v t="metaperl.20191124092807.1" a="E"><vh>Earthly Concerns</vh>
-<v t="metaperl.20191124093745.1"><vh>Communication and Relationships</vh></v>
-<v t="metaperl.20191124093656.1"><vh>Conspiracy Theory</vh></v>
-<v t="metaperl.20191124093245.1"><vh>Streetdance</vh></v>
+<v t="metaperl.20191124092807.1"><vh>Anatomy of an Isolation Tank</vh>
+<v t="metaperl.20220102161504.1"><vh>Epsom Salt</vh>
+<v t="metaperl.20220102161713.1"><vh>Acquiring</vh></v>
+<v t="metaperl.20220102161744.1"><vh>Amount</vh></v>
 </v>
-<v t="metaperl.20191124092401.1" a="E"><vh>Spirituality</vh>
+<v t="metaperl.20220102161520.1"><vh>The Container</vh>
+<v t="metaperl.20220102164057.1"><vh>The Tub</vh></v>
+<v t="metaperl.20220102164108.1"><vh>The Top</vh></v>
+</v>
+<v t="metaperl.20220102161135.1"><vh>Water</vh>
+<v t="metaperl.20220102161206.1"><vh>Filtration</vh></v>
+<v t="metaperl.20220102161237.1"><vh>Height</vh></v>
+<v t="metaperl.20220102161238.1"><vh>Temperature</vh>
+<v t="metaperl.20220102161238.2"><vh>Controllling Temperature</vh>
+<v t="metaperl.20220102161240.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+</v>
+</v>
+<v t="metaperl.20191124092401.1"><vh>Anatomy of an Isolation Tank Room</vh>
 <v t="metaperl.20191124092641.1"><vh>Sacred Sexuality</vh></v>
 </v>
-<v t="metaperl.20191124091553.1" a="E"><vh>Money, Tax and Law</vh>
-<v t="metaperl.20191124091639.1"><vh>Have you Met Your Strawman?</vh></v>
-<v t="metaperl.20191124091655.1"><vh>Do not pay income tax!!!</vh></v>
-<v t="metaperl.20191124092010.1"><vh>Gold is Real Money but Crypto Rocks</vh></v>
+<v t="metaperl.20220102164524.1"><vh>Setting up an Isolation Tank</vh>
+<v t="metaperl.20220102164536.1"><vh>Dissolving salt in water...</vh></v>
+</v>
+<v t="metaperl.20191124091553.1"><vh>Resources</vh>
+<v t="metaperl.20191124091639.1"><vh>Programmable feedback devices</vh></v>
+<v t="metaperl.20191124091655.1"><vh>Space heaters</vh></v>
+<v t="metaperl.20191124092010.1"><vh>Water heaters</vh></v>
 </v>
 </v>
 </vnodes>
@@ -72,49 +94,48 @@ The divorce rate is over 50% and many of those in marriages are unhappy. www.unf
 * http://facebook.com/terrence.brannon
 * https://www.youtube.com/user/TheQuietCenter/playlists?view_as=subscriber
 </t>
-<t tx="metaperl.20191124093245.1">Love it - I moderate this  https://www.reddit.com/r/streetdance/
-
-Wanna see me doing some Memphis Jookin? Check me out! https://www.youtube.com/watch?v=ewx0t2_V8Qo
-
-</t>
-<t tx="metaperl.20191124093656.1">Maya does a wonderful dance of illusion:
-
-* No planes flew into the World Trade Center on 9/11/2001.
-* We do not living on a spinning, whirling ball. The earth is flat, level and still.
-
-</t>
-<t tx="metaperl.20191124093745.1">Non-violent communication is a powerful way to state your truth without giving away your power. 
-
-JJ Robert's book "Sex 3.0" changed the way I think about relationships. My endeavors in sacred sexuality are also down this line.
-
-"The Book of the Mother" by the Shiva Lila community also changed my thinking about children and marriage.
-</t>
 <t tx="metaperl.20191124100336.1">My life mission consists of inner work and outer work. The inner work is more important.
 </t>
-<t tx="metaperl.20191124100440.1">Isolation-Tank-Gnosis is a religion I formed based around the isolation-tank/floatation-tank/sensory-deprivation tank
-https://isolationtankgnosis.wordpress.com/
+<t tx="metaperl.20191124100440.1">I developed the Black Beauty isolation tank. It requires little to no building expertise and can be put together quickly.
+
+http://www.thedeepself.org/tank-plans/version-2b/
 
 </t>
-<t tx="metaperl.20191124100629.1">What is the Quiet Center?
-* a book written by John C. Lilly, inventor of the Isolation Tank
-* the part of every hurricane: no matter how much craziness is occurring, every hurricane has a Quiet Center that a plane can fly into unperturbed.
-* an analogy for the shakshibhava - the silent witness of all events. I AM = Sat-Chit-Ananda: the uncreated witness of the 5 lower sheaths: (1) food-sheath (2) prana sheath (3) lower-mind (4) higher-mind (5) bliss
-* An intentional community based around spiritual practices that work certainly and work fast (15 minutes to 21 days). I spent 31 days at Madre Grande monastery and I did have a transformation but it could have been faster and more certain with the methods available at http://TheQuietCenter.org - orgasmic mindfulness, isolation tank, pranayama ... conflict resolution and forgiveness are a must in community ... who is really willing to sacrifice their ego in community?
+<t tx="metaperl.20191128032627.1">There are a few reasons to consider building your own tank instead of buying one. 
+
+The first and most important is so that you never have to worry about contacting someone else for spare parts.</t>
+<t tx="metaperl.20220102161135.1"></t>
+<t tx="metaperl.20220102161206.1"></t>
+<t tx="metaperl.20220102161237.1">10-12 inches high.
 </t>
-<t tx="metaperl.20191124101243.1">Create the "IRS Slam Dunk" affidavit to free people from the lies and tricks of the IRS - how can anyone report income when the term "income" is not defined in their 3 million word code?
+<t tx="metaperl.20220102161238.1">92-93 degrees
 </t>
-<t tx="metaperl.20191128032627.1">I write computer programs professionally:
-
-* Here's my source code - https://github.com/metaperl
-* And some more source code - https://gitlab.com/metaperl
-* I finally managed to keep a LinkedIn account without getting banned. Check it out! https://www.linkedin.com/in/softwareartisan
-
-Mild-mannered computer programmer by day. Money, tax and law wizard by night:
-http://mymoneymagick.com/  ... by the way gold is real money, [the US dollar is not money](http://static.livingcosmos.org/www.financial-freedom-club.com/TheUSDollarisNotMoney.html), simply currency). Many people have had their apparent wealth is fictional dollar bills wiped off the map in the blink of the eye. Will you be starring in the next tragedy: 
-http://freegold.biz/zimbabwe/supreme
-
-
+<t tx="metaperl.20220102161238.2">Controlling Tempeat</t>
+<t tx="metaperl.20220102161240.1"></t>
+<t tx="metaperl.20220102161504.1">Originally tanks used table (?) salt, which had a tendency to burn quite a bit. One fine day, the good doctor thought: "hey how about Epsom Salt" and all apostles of floatation have followed suit from that day hence.
 
 </t>
+<t tx="metaperl.20220102161520.1"></t>
+<t tx="metaperl.20220102161713.1"></t>
+<t tx="metaperl.20220102161744.1">800 to 1000 pounds might be OK. You have to figure the amount of water and dimensions of the tank into it.
+</t>
+<t tx="metaperl.20220102161942.1"></t>
+<t tx="metaperl.20220102162253.1"></t>
+<t tx="metaperl.20220102162342.1"></t>
+<t tx="metaperl.20220102163527.1">Zenfloatco has its own home on DIY Tanks because it shows what happens when you depend on a company whose ideas are secret.
+
+</t>
+<t tx="metaperl.20220102163728.1">
+https://www.reddit.com/r/FloatTank/comments/rtl4s6/is_zen_float_co_out_of_business/
+</t>
+<t tx="metaperl.20220102164057.1">Here we the the "tub" part of a floatation tank... the bottom part.
+
+![](https://preview.redd.it/qx1i9ovdqs381.jpg?width=300&amp;format=pjpg&amp;auto=webp&amp;s=203c81aca9ad39747a082f5e330f5d8fd2fd1b2c)
+</t>
+<t tx="metaperl.20220102164108.1"></t>
+<t tx="metaperl.20220102164524.1"></t>
+<t tx="metaperl.20220102164536.1">Only one thing to say: get the water super hot, as hot as possible because [the salt will be hard to dissolve otherwise](https://www.reddit.com/r/FloatTank/comments/qinls4/comment/hin8g8u/?utm_source=share&amp;utm_medium=web2x&amp;context=3). I suggest 140 degrees Fahrenheit.
+</t>
+<t tx="metaperl.20220102164759.1"></t>
 </tnodes>
 </leo_file>
