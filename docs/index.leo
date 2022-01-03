@@ -14,13 +14,6 @@
 </v>
 </v>
 <v t="metaperl.20191124092807.1"><vh>Anatomy of an Isolation Tank</vh>
-<v t="metaperl.20220103002955.1"><vh>Close Relatives to the Isolation Tank</vh>
-<v t="metaperl.20220103003420.1"><vh>Waterbeds</vh></v>
-<v t="metaperl.20220103003427.1"><vh>Aquariums</vh></v>
-<v t="metaperl.20220103003431.1"><vh>Pools</vh></v>
-<v t="metaperl.20220103003436.1"><vh>Jacuzzis</vh></v>
-<v t="metaperl.20220103003440.1"><vh>Baptismal Chambers</vh></v>
-</v>
 <v t="metaperl.20220102161504.1"><vh>Epsom Salt</vh>
 <v t="metaperl.20220102161713.1"><vh>Acquiring</vh></v>
 <v t="metaperl.20220102161744.1"><vh>Amount</vh></v>
@@ -45,6 +38,14 @@
 <v t="metaperl.20220102161240.1"><vh>newHeadline</vh></v>
 </v>
 </v>
+</v>
+<v t="metaperl.20220103030037.1"><vh>Heater for Water</vh></v>
+<v t="metaperl.20220103002955.1"><vh>Close Relatives to the Isolation Tank</vh>
+<v t="metaperl.20220103003420.1"><vh>Waterbeds</vh></v>
+<v t="metaperl.20220103003427.1"><vh>Aquariums</vh></v>
+<v t="metaperl.20220103003431.1"><vh>Pools</vh></v>
+<v t="metaperl.20220103003436.1"><vh>Jacuzzis</vh></v>
+<v t="metaperl.20220103003440.1"><vh>Baptismal Chambers</vh></v>
 </v>
 </v>
 <v t="metaperl.20191124100336.1"><vh>Functional DIY Tanks</vh>
@@ -131,10 +132,15 @@ One of the most successful commercial designers of isolation tanks, [Royal spa](
 * hot tubs 
 * baptism items - a baptismal heater is a great way to heat a tank... if it can heat a body of water 3 feet high, it can certainly deal with the 10-12 inches of water in an isolation tank.
 
+Without any further adieu, let's see just what makes a tank tick:
+
+&lt;toc&gt;&lt;/toc&gt;
+
+
 </t>
 <t tx="metaperl.20191124100336.1">@language md
 
-Now that we have a conceptual overview of the nuts and bolts that go into making a tank, we can actually look at diy tanks that have actually been built. Some tanks require very little technical skill and others are quite involved:
+Now that we have a conceptual overview of the nuts and bolts that go into making a tank, we can actually look at diy tanks that have actually been built. Some tanks require very little technical skill and others are quite involved. Some are impossible to build because the instructions are severely lacking.
 
 &lt;toc&gt;&lt;/toc&gt;</t>
 <t tx="metaperl.20191124100440.1">I developed the Black Beauty isolation tank. It requires little to no building expertise and can be put together quickly.
@@ -164,7 +170,7 @@ The first and most important is so that you never have to worry about contacting
 
 Zenfloatco was an innovator in the world of isolation tanks. The design was something the world had never seen - a tent. And then they went beyond the tent to create a one-piece tent that you could simply put down and inflate. 
 
-Well, that is the good side of things. But even so, they were a private company and they had their trade secrets. And with these demise of Zen Float Co, they closed down and did not provide any lifeline for their customer base. And then they tossed all the spare parts in a dumpster, leaving Zen Float Co tent owners high and dry.
+Well, that is the good side of things. But even so, they were a private company and they had their trade secrets. And with these demise of Zen Float Co, they closed down and did not provide any lifeline for their customer base. And then [they tossed all the spare parts in a dumpster](https://www.reddit.com/r/FloatTank/comments/qgtkv9/comment/hn5do7t/?utm_source=share&amp;utm_medium=web2x&amp;context=3), leaving Zen Float Co tent owners high and dry.
 
 </t>
 <t tx="metaperl.20220102164057.1">Here we the the "tub" part of a floatation tank... the bottom part.
@@ -247,5 +253,6 @@ While Instructables gave us a hard to build tank with RyanMake, they went the ex
 </t>
 <t tx="metaperl.20220103025533.1">This should speak for itself. Why would you order a part from a commercial float tank manufacturer, when all they did was order something from somewhere else and scratch off the label of the place they got it from?
 </t>
+<t tx="metaperl.20220103030037.1"></t>
 </tnodes>
 </leo_file>
