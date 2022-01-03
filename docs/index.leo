@@ -6,12 +6,6 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="metaperl.20220102161942.1"><vh>Startup</vh>
-<v t="metaperl.20220102162253.1"><vh>@settings</vh>
-<v t="metaperl.20220102162342.1"><vh>@bool mod-autosave-active=True</vh></v>
-<v t="metaperl.20220102164759.1"><vh>@int mod-autosave-interval=30</vh></v>
-</v>
-</v>
 <v t="metaperl.20191124091501.2"><vh>DIY Tanks</vh>
 <v t="metaperl.20191128032627.1"><vh>Motivation</vh>
 <v t="metaperl.20220102163527.1"><vh>Zenfloatco's Demise is a Word to the Wise</vh></v>
@@ -50,7 +44,7 @@
 </v>
 </v>
 </v>
-<v t="metaperl.20191124100336.1"><vh>Isolation Tank Models that are Built and Running</vh>
+<v t="metaperl.20191124100336.1"><vh>Functional DIY Tanks</vh>
 <v t="metaperl.20220103015235.1"><vh>Easy to Build</vh>
 <v t="metaperl.20191124100440.1"><vh>Black Beauty</vh>
 <v t="metaperl.20220102233653.1"><vh>On Passively Heating the Water</vh>
@@ -101,13 +95,16 @@ When it comes to getting in time in an isolation tank, you have a few choices:
 * buy a commercially available tank
 * "build" your own tank
 
-This website is devoted to those interested in "building" their own tank. I put the word "build" in quotes so that it does not scare anyone off. In some cases building a tank is no more involved than the assembly involved when you receive a commercial tank.
+This website is devoted to those interested in "building" their own tank. I put the word "build" in quotes so that it does not scare anyone off. **In many cases building a tank is just as simple as the assembly involved when you receive a commercial tank.**
 
 # A Bit of History
 
-For a very, very long time, I wanted to create a website called "Dirt Cheap Tanks". About 5-10 years after the desire to create it, Zen Float Co broke onto the floatation tank scene with an isolation tank only costing $2,000. It was brilliantly engineered and made one question why you would buy a used Samadhi or Oasis 
+For a very, very long time, I wanted to create a website called "Dirt Cheap Tanks". About 5-10 years after the desire to create it, Zen Float Co broke onto the floatation tank scene with an isolation tank only costing $2,000. It was brilliantly engineered and made one question why you would buy a used Samadhi or Oasis.
 
 Well, now we know. And that should be a lesson to anyone who is thinking of buying a commercial product, even a low-cost one.
+
+# Floatation Tanks Are Easy to Build and Save You From Disappearing manufacturers.
+
 
 
 </t>
@@ -171,9 +168,6 @@ The first and most important is so that you never have to worry about contacting
 <t tx="metaperl.20220102161713.1"></t>
 <t tx="metaperl.20220102161744.1">800 to 1000 pounds might be OK. You have to figure the amount of water and dimensions of the tank into it.
 </t>
-<t tx="metaperl.20220102161942.1"></t>
-<t tx="metaperl.20220102162253.1"></t>
-<t tx="metaperl.20220102162342.1"></t>
 <t tx="metaperl.20220102163527.1">@language md
 
 Zenfloatco was an innovator in the world of isolation tanks. The design was something the world had never seen - a tent. And then they went beyond the tent to create a one-piece tent that you could simply put down and inflate. 
@@ -189,7 +183,6 @@ Well, that is the good side of things. But even so, they were a private company 
 <t tx="metaperl.20220102164524.1"></t>
 <t tx="metaperl.20220102164536.1">Only one thing to say: get the water super hot, as hot as possible because [the salt will be hard to dissolve otherwise](https://www.reddit.com/r/FloatTank/comments/qinls4/comment/hin8g8u/?utm_source=share&amp;utm_medium=web2x&amp;context=3). I suggest 140 degrees Fahrenheit.
 </t>
-<t tx="metaperl.20220102164759.1"></t>
 <t tx="metaperl.20220102232823.1">@language md
 
 While the Zen Float Co tent is not a DIY tank, replacing the parts and keeping your's running after the company's demise is a do-it-yourself affair. Also, unearthing the components of this tent are instructive and allow us to find related, similar items for our own ventures.
