@@ -27,6 +27,7 @@
 <v t="metaperl.20220103002214.1"><vh>Beware of epsom salt rotting out the seal of your pump</vh></v>
 </v>
 <v t="metaperl.20220103000911.1"><vh>Purification</vh>
+<v t="metaperl.20220103032336.1"><vh>Peroxysan</vh></v>
 <v t="metaperl.20220103002744.1"><vh>Hydrogen Peroxide</vh></v>
 <v t="metaperl.20220103002753.1"><vh>Ozone?</vh></v>
 <v t="metaperl.20220103002801.1"><vh>Chlorine?</vh></v>
@@ -34,9 +35,7 @@
 </v>
 <v t="metaperl.20220102161237.1"><vh>Height</vh></v>
 <v t="metaperl.20220102161238.1"><vh>Temperature</vh>
-<v t="metaperl.20220102161238.2"><vh>Controllling Temperature</vh>
-<v t="metaperl.20220102161240.1"><vh>newHeadline</vh></v>
-</v>
+<v t="metaperl.20220102161238.2"><vh>Controlling Temperature</vh></v>
 </v>
 </v>
 <v t="metaperl.20220103030037.1"><vh>Heater for Water</vh></v>
@@ -74,16 +73,21 @@
 <v t="metaperl.20191124092401.1"><vh>Room Temperature</vh></v>
 <v t="metaperl.20220102164536.1"><vh>Dissolving salt in water...</vh></v>
 </v>
-<v t="metaperl.20191124091553.1"><vh>Resources</vh>
+<v t="metaperl.20220103001729.1"><vh>Equipment</vh>
+<v t="metaperl.20220103032756.1"><vh>The Tub</vh>
+<v t="metaperl.20220103032803.1"><vh>Dock Floats</vh></v>
+<v t="metaperl.20220103033007.1"><vh>Containment Tanks</vh></v>
+</v>
+<v t="metaperl.20191124091655.1"><vh>Space heaters</vh></v>
+<v t="metaperl.20220103001748.1"><vh>Heating the water</vh>
+<v t="metaperl.20191124091639.1"><vh>Programmable feedback devices</vh></v>
+<v t="metaperl.20191124092010.1"><vh>Water heaters</vh></v>
+</v>
+</v>
+<v t="metaperl.20191124091553.1"><vh>Errata</vh>
 <v t="metaperl.20220103001752.1"><vh>Websites</vh>
 <v t="metaperl.20220103001808.1"><vh>WeFloat.net</vh></v>
 <v t="metaperl.20220103001816.1"><vh>reddit FloatTank</vh></v>
-</v>
-<v t="metaperl.20220103001729.1"><vh>Equipment</vh>
-<v t="metaperl.20220103001748.1"><vh></vh></v>
-<v t="metaperl.20191124091639.1"><vh>Programmable feedback devices</vh></v>
-<v t="metaperl.20191124091655.1"><vh>Space heaters</vh></v>
-<v t="metaperl.20191124092010.1"><vh>Water heaters</vh></v>
 </v>
 </v>
 </v>
@@ -104,9 +108,15 @@ Just follow the following sections so that you can imitate or devise your own is
 <t tx="metaperl.20191124091553.1">I've learned a lot about money, tax and law. More than the financial elite want anyone to know. It's all at my blog - http://www.MyMoneyMagick.com
 
 </t>
-<t tx="metaperl.20191124091639.1">Do you know the difference between Terrence-Monroe: Brannon and TERRENCE MONROE BRANNON? If not, you have not met your strawman.
+<t tx="metaperl.20191124091639.1">@language md
 
-Your strawman was born the same day you were, but the government did not tell you about it - https://www.youtube.com/watch?v=ME7K6P7hlko&amp;feature=emb_title
+Programmable feedback devices can also be used to control water chemistry and more. But this guide focuses on their use for controlling water temperature.
+
+I told my story of what worked for me. But let's abstract my story and list some other compelling resources:
+
+* [Automation Direct](https://www.automationdirect.com/adc/overview/catalog/process_control_-a-_measurement/temperature_-z-_process_controllers) has affordable temperature controllers.
+* [Omega](https://www.omega.com/) has some beautiful temperature probes  as well [feedback devices](https://www.omega.com/en-us/control-monitoring/controllers/pid-controllers/cnd3-series/p/CN16D3-L-AC?gclsrc=aw.ds&amp;gclid=Cj0KCQiAqbyNBhC2ARIsALDwAsDmUerBY6Pcu82-nWp7_m2GSUxJHShhqfhpRPaYfaSI3G_thK8V8yUaAoYWEALw_wcB).
+* an [Amazon search for temperature controllers](https://www.amazon.com/Temperature-Controllers/b?ie=UTF8&amp;node=306533011) turns up the Inkbird which some have used successfully.
 </t>
 <t tx="metaperl.20191124091655.1">Please read my article:
 http://mymoneymagick.com/tax/do-not-file-or-pay-income-tax/
@@ -157,8 +167,20 @@ The first and most important is so that you never have to worry about contacting
 </t>
 <t tx="metaperl.20220102161238.1">92-93 degrees
 </t>
-<t tx="metaperl.20220102161238.2">Controlling Tempeat</t>
-<t tx="metaperl.20220102161240.1"></t>
+<t tx="metaperl.20220102161238.2">@language md
+
+I'll never forget the day in Columbus, OH that the built-in heater broke on my float-to-relax tank. Right around the same time, the heater used to heat the water seemed to fail. So what did I do? I got lucky and someone in Toledo had some Aztec heating panels available for sale, so I went and got them. And as far as turning them on and off it was simple.
+
+1. I got myself an [Apex Jr. programmable aquacontroller](https://www.neptunesystems.com/products/apex-controllers/apex-jr/).
+1. I ordered their optional temperature probe.
+1. I plugged the heater into the power outlets controlled by the controller.
+1. I put the temperature probe in the tank and connected it to the controller.
+1. I put in a small program that said turn the heater on when the temperature drops below X and turn the heater electrical socket off when the temperature is above Y.
+
+So that was my specific case. But what you use to probe water temperature and control water temperature is up to you ... choose anything in the relevant resources section.
+
+
+</t>
 <t tx="metaperl.20220102161504.1">Originally tanks used table (?) salt, which had a tendency to burn quite a bit. One fine day, the good doctor thought: "hey how about Epsom Salt" and all apostles of floatation have followed suit from that day hence.
 
 </t>
@@ -254,5 +276,27 @@ While Instructables gave us a hard to build tank with RyanMake, they went the ex
 <t tx="metaperl.20220103025533.1">This should speak for itself. Why would you order a part from a commercial float tank manufacturer, when all they did was order something from somewhere else and scratch off the label of the place they got it from?
 </t>
 <t tx="metaperl.20220103030037.1"></t>
+<t tx="metaperl.20220103032336.1">@language md
+
+[this](https://peroxysan.com/) looks like some good stuff.
+</t>
+<t tx="metaperl.20220103032756.1"></t>
+<t tx="metaperl.20220103032803.1">@language md
+
+Dock floats might just be the one-piece solution that evolves the black beauty in terms of simplicity and cost. [Permafloats](https://permafloats.com/catalog/product/view/id/5339/s/permafloat-dock-float-48-x-96-x-32/category/42/) has an appealing one.
+
+But of course you have cut out all the buoyant foam they put inside of it. And they arent really designed to opened or closed either.
+</t>
+<t tx="metaperl.20220103033007.1">@language md
+
+Two 360 gallon containment tanks is how the Black Beauty was built. I wouldnt mind a little extra height in one or both tanks, but it worked.
+
+[PBM Tank supply](https://pbmtanksupply.com/products/containment-tanks/360-gallon-containment-tank-black-42940.html) is one of many manufacturers with the same price.
+
+Sievers [poly tank supply](https://www.polytanksales.com/containment-tanks/575-gallon-containment-tank-black.html) has a 575 gallon tank which creates that extra height. 
+
+
+[Barn World](https://www.barnworld.com/cattle-guards/?product_link=round-poly-stock-tanks-1e0cceeb-61db-4dd1-8e90-8829d47afa6786cdee26-0c1f-4812-afbb-b4ac6407c4e7) has me drooling with this perfectly circular 8' diameter containment tank.
+</t>
 </tnodes>
 </leo_file>
