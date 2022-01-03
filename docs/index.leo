@@ -8,7 +8,10 @@
 <vnodes>
 <v t="metaperl.20191124091501.2"><vh>DIY Tanks</vh>
 <v t="metaperl.20191128032627.1"><vh>Motivation</vh>
+<v t="metaperl.20220103025424.1"><vh>Once you have the concepts you can swap parts</vh></v>
+<v t="metaperl.20220103025533.1"><vh>No More Disappearing Manufacturer Syndrome</vh>
 <v t="metaperl.20220102163527.1"><vh>Zenfloatco's Demise is a Word to the Wise</vh></v>
+</v>
 </v>
 <v t="metaperl.20191124092807.1"><vh>Anatomy of an Isolation Tank</vh>
 <v t="metaperl.20220103002955.1"><vh>Close Relatives to the Isolation Tank</vh>
@@ -89,22 +92,11 @@
 
 # Welcome to Do-It-YourSelf Floatation Tanks (diytanks.com)
 
-When it comes to getting in time in an isolation tank, you have a few choices:
+This website is devoted to those interested in building their own isolation tank. **In many cases building a tank is just as simple as the assembly involved when you receive a commercial tank.**
 
-* rent time at a commercial center
-* buy a commercially available tank
-* "build" your own tank
+Just follow the following sections so that you can imitate or devise your own isolation tank.
 
-This website is devoted to those interested in "building" their own tank. I put the word "build" in quotes so that it does not scare anyone off. **In many cases building a tank is just as simple as the assembly involved when you receive a commercial tank.**
-
-# A Bit of History
-
-For a very, very long time, I wanted to create a website called "Dirt Cheap Tanks". About 5-10 years after the desire to create it, Zen Float Co broke onto the floatation tank scene with an isolation tank only costing $2,000. It was brilliantly engineered and made one question why you would buy a used Samadhi or Oasis.
-
-Well, now we know. And that should be a lesson to anyone who is thinking of buying a commercial product, even a low-cost one.
-
-# Floatation Tanks Are Easy to Build and Save You From Disappearing manufacturers.
-
+&lt;toc&gt;&lt;/toc&gt;
 
 
 </t>
@@ -250,6 +242,10 @@ Any floatation tank is a luxury - a buddhist monk just gets a cushion and has to
 While Instructables gave us a hard to build tank with RyanMake, they went the extra mile by publishing Substudio's [custom floation tank](https://www.instructables.com/Custom-Floatation-Tank/), which is impossible to build as we will see:
 
 
+</t>
+<t tx="metaperl.20220103025424.1">Instead of being wed to one pump/filter or heating system, once you understand the Anatomy of an Isolation tank, you can choose any number of parts to fix any part of your tank.
+</t>
+<t tx="metaperl.20220103025533.1">This should speak for itself. Why would you order a part from a commercial float tank manufacturer, when all they did was order something from somewhere else and scratch off the label of the place they got it from?
 </t>
 </tnodes>
 </leo_file>
