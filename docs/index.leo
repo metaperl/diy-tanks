@@ -240,8 +240,11 @@ Well, in most cases, people tuck tail and buy a commercial one, thinking that co
 <t tx="metaperl.20220103001729.1"></t>
 <t tx="metaperl.20220103001748.1"></t>
 <t tx="metaperl.20220103001752.1"></t>
-<t tx="metaperl.20220103001808.1"></t>
-<t tx="metaperl.20220103001816.1"></t>
+<t tx="metaperl.20220103001808.1">@language md
+
+There is always new discussion about diy tanks at [WeFloat.net](https://www.wefloat.net/index.php/floatation-therapy-forum/categories/5-diy-float-tanks)</t>
+<t tx="metaperl.20220103001816.1">6,000 members strong with good discussion - https://www.reddit.com/r/FloatTank/
+</t>
 <t tx="metaperl.20220103002214.1">If you let epsom salt sit in the pump without running the pump frequently, then the epsom salt will dissolve the rubber ring. This happened in the spa pack I bought from Oasis long ago.
 </t>
 <t tx="metaperl.20220103002744.1"></t>
@@ -264,7 +267,10 @@ Any floatation tank is a luxury - a buddhist monk just gets a cushion and has to
 <t tx="metaperl.20220103015235.1"></t>
 <t tx="metaperl.20220103015254.1"></t>
 <t tx="metaperl.20220103015403.1"></t>
-<t tx="metaperl.20220103015451.1"></t>
+<t tx="metaperl.20220103015451.1">@language md
+
+What is Curt smoking - https://www.youtube.com/watch?v=c8K7T7vqBP8
+</t>
 <t tx="metaperl.20220103015531.1">@language md
 
 While Instructables gave us a hard to build tank with RyanMake, they went the extra mile by publishing Substudio's [custom floation tank](https://www.instructables.com/Custom-Floatation-Tank/), which is impossible to build as we will see:
