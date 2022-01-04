@@ -308,6 +308,8 @@ But of course you have cut out all the buoyant foam they put inside of it. And t
 
 Two 360 gallon containment tanks is how the Black Beauty was built. I wouldnt mind a little extra height in one or both tanks, but it worked.
 
+Rhino has a [300 gallon tank](https://www.jmesales.com/rhino-tuff-tanks-rtt-4043-300-gallon-secondary-containment-vessel/) that has more height and is 50% cheaper than anything I have seen.
+
 [PBM Tank supply](https://pbmtanksupply.com/products/containment-tanks/360-gallon-containment-tank-black-42940.html) is one of many manufacturers with the same price.
 
 Sievers [poly tank supply](https://www.polytanksales.com/containment-tanks/575-gallon-containment-tank-black.html) has a 575 gallon tank which creates that extra height. 
