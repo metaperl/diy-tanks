@@ -6,6 +6,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
+<v t="metaperl.20220104062138.1"><vh>@cover</vh></v>
 <v t="metaperl.20191124091501.2"><vh>DIY Tanks</vh>
 <v t="metaperl.20191128032627.1"><vh>Motivation</vh>
 <v t="metaperl.20220103025424.1"><vh>Once you have the concepts you can swap parts</vh></v>
@@ -67,13 +68,16 @@
 <v t="metaperl.20220103015403.1"><vh>Impossible to Build</vh>
 <v t="metaperl.20220103015451.1"><vh>Curt Van Filipowski's Tank</vh></v>
 <v t="metaperl.20220103015531.1"><vh>SUBSTUDIO's Custom Tank</vh></v>
+<v t="metaperl.20220104060129.1"><vh>Kung Fu Benji</vh></v>
 </v>
 </v>
 <v t="metaperl.20220102164524.1"><vh>Setting up an Isolation Tank</vh>
 <v t="metaperl.20191124092401.1"><vh>Room Temperature</vh></v>
 <v t="metaperl.20220102164536.1"><vh>Dissolving salt in water...</vh></v>
 </v>
+<v t="metaperl.20220104052444.1"><vh>Tank Use</vh></v>
 <v t="metaperl.20220103001729.1"><vh>Equipment</vh>
+<v t="metaperl.20220104053447.1"><vh>Water Filtration</vh></v>
 <v t="metaperl.20220103032756.1"><vh>The Tub</vh>
 <v t="metaperl.20220103032803.1"><vh>Dock Floats</vh></v>
 <v t="metaperl.20220103033007.1"><vh>Containment Tanks</vh></v>
@@ -83,6 +87,9 @@
 <v t="metaperl.20191124091639.1"><vh>Programmable feedback devices</vh></v>
 <v t="metaperl.20191124092010.1"><vh>Water heaters</vh></v>
 </v>
+</v>
+<v t="metaperl.20220104054839.1"><vh>Stores</vh>
+<v t="metaperl.20220104060905.1"><vh>All Pond Solutions</vh></v>
 </v>
 <v t="metaperl.20191124091553.1"><vh>Errata</vh>
 <v t="metaperl.20220103001752.1"><vh>Websites</vh>
@@ -121,13 +128,11 @@ I told my story of what worked for me. But let's abstract my story and list some
 <t tx="metaperl.20191124091655.1">Please read my article:
 http://mymoneymagick.com/tax/do-not-file-or-pay-income-tax/
 </t>
-<t tx="metaperl.20191124092010.1">Gold is the longest, strongest store of value on Planet Earth:
-http://static.livingcosmos.org/www.financial-freedom-club.com/Karatbars-A-to-Z.html
+<t tx="metaperl.20191124092010.1">@language md
 
-But crypto gives fast high-yield gains. How to marry them? Read my blog to see:
-http://mymoneymagick.com/gold/what-cryptocurrency-is-backed-by-gold-kbc-coin-is/
+For people attempting to heat the tank while floating:
 
-
+* you may look into [glass aquarium heaters](https://www.reddit.com/r/FloatTank/comments/34738f/comment/cqsklix/?utm_source=share&amp;utm_medium=web2x&amp;context=3).
 </t>
 <t tx="metaperl.20191124092401.1">82 degrees Fahrenheit
 </t>
@@ -303,6 +308,38 @@ Sievers [poly tank supply](https://www.polytanksales.com/containment-tanks/575-g
 
 
 [Barn World](https://www.barnworld.com/cattle-guards/?product_link=round-poly-stock-tanks-1e0cceeb-61db-4dd1-8e90-8829d47afa6786cdee26-0c1f-4812-afbb-b4ac6407c4e7) has me drooling with this perfectly circular 8' diameter containment tank.
+</t>
+<t tx="metaperl.20220104052444.1">@language md
+
+Ryan Lawson [recommends](https://www.reddit.com/r/FloatTank/comments/4qbfmw/comment/dax43u1/?utm_source=share&amp;utm_medium=web2x&amp;context=3) buying a chamois. He uses the chamois to get  as dry as possible while standing in the tank. Then he rings the water back into the tank. This helps keep your salt and water in the tank.</t>
+<t tx="metaperl.20220104053447.1">@language md
+
+[Intex](https://intexcorp.com/) makes a nice variety of pumps and filters that can be leveraged for a DIY tank.
+</t>
+<t tx="metaperl.20220104054839.1">@language md
+
+The stores that sell equipment related to DIY tanks are always changing. Drs Foster and Smith was awesome when I was building the Black Beauty. SaltySupply.com was great in 2013 but is also no longer around. [Salt Water Aquarium](https://www.saltwateraquarium.com/) covers much of the same ground and is currently still in operation. Their filtration offerings are mammoth - make sure to get a mag drive pump instead of one with a rubber seal and ensure with customer service that there will be no breakdown of the pump due to saltwater eating away at any sort of seal.
+</t>
+<t tx="metaperl.20220104060129.1">@language md
+
+https://www.youtube.com/watch?v=4YAFJM5nzkA
+</t>
+<t tx="metaperl.20220104060905.1">@language md
+
+[All Pond Solutions](https://www.allpondsolutions.co.uk/) has a stock product, the CUP-359, that [zen float co used for the first versions of their tent](https://www.reddit.com/r/FloatTank/comments/qgtkv9/where_to_buy_replacement_pumpfilter_for_zen_float/).
+
+</t>
+<t tx="metaperl.20220104062138.1">@language html
+&lt;div class="cover-main"&gt;
+  &lt;div style="max-width:60%;margin-left:auto;margin-right:auto;padding-bottom:30px;"&gt;
+
+  &lt;div class="app-title"&gt;
+     LeoVue
+   &lt;/div&gt;
+   do-it-yourself tanks.
+   &lt;/div&gt;
+&lt;/div&gt;
+  
 </t>
 </tnodes>
 </leo_file>
