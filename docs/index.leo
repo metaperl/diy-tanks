@@ -330,16 +330,10 @@ https://www.youtube.com/watch?v=4YAFJM5nzkA
 
 </t>
 <t tx="metaperl.20220104062138.1">@language html
-&lt;div class="cover-main"&gt;
-  &lt;div style="max-width:60%;margin-left:auto;margin-right:auto;padding-bottom:30px;"&gt;
-
-  &lt;div class="app-title"&gt;
-     LeoVue
-   &lt;/div&gt;
-   do-it-yourself tanks.
-   &lt;/div&gt;
+&lt;div&gt;
+do-it-yourself isolation tanks
 &lt;/div&gt;
-  
+
 </t>
 </tnodes>
 </leo_file>
