@@ -6,7 +6,6 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="metaperl.20220104062138.1"><vh>@cover</vh></v>
 <v t="metaperl.20191124091501.2"><vh>DIY Tanks</vh>
 <v t="metaperl.20191128032627.1"><vh>Motivation</vh>
 <v t="metaperl.20220103025424.1"><vh>Once you have the concepts you can swap parts</vh></v>
@@ -327,12 +326,6 @@ https://www.youtube.com/watch?v=4YAFJM5nzkA
 <t tx="metaperl.20220104060905.1">@language md
 
 [All Pond Solutions](https://www.allpondsolutions.co.uk/) has a stock product, the CUP-359, that [zen float co used for the first versions of their tent](https://www.reddit.com/r/FloatTank/comments/qgtkv9/where_to_buy_replacement_pumpfilter_for_zen_float/).
-
-</t>
-<t tx="metaperl.20220104062138.1">@language html
-&lt;div&gt;
-do-it-yourself isolation tanks
-&lt;/div&gt;
 
 </t>
 </tnodes>
