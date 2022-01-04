@@ -58,7 +58,8 @@
 </v>
 </v>
 </v>
-<v t="metaperl.20220103015254.1"><vh>Hard to Build</vh>
+<v t="metaperl.20220103015254.1"><vh>Involved to Build</vh>
+<v t="metaperl.20220104070502.1"><vh>mescid's tank</vh></v>
 <v t="metaperl.20220102235221.1"><vh>RyanMake @ Instructables</vh>
 <v t="metaperl.20220102235309.1"><vh>It's tanks like these that scare people away from making their own</vh></v>
 </v>
@@ -94,6 +95,7 @@
 <v t="metaperl.20220103001752.1"><vh>Websites</vh>
 <v t="metaperl.20220103001808.1"><vh>WeFloat.net</vh></v>
 <v t="metaperl.20220103001816.1"><vh>reddit FloatTank</vh></v>
+<v t="metaperl.20220104073011.1"><vh>Float tank DIY on fb</vh></v>
 </v>
 </v>
 </v>
@@ -188,7 +190,12 @@ So that was my specific case. But what you use to probe water temperature and co
 <t tx="metaperl.20220102161504.1">Originally tanks used table (?) salt, which had a tendency to burn quite a bit. One fine day, the good doctor thought: "hey how about Epsom Salt" and all apostles of floatation have followed suit from that day hence.
 
 </t>
-<t tx="metaperl.20220102161520.1"></t>
+<t tx="metaperl.20220102161520.1">@language md
+
+A tank is designed to hold water and salt and keep out light and sound. 
+
+Be sure to [avoid spray polyurethane foam when building a tank](https://www.reddit.com/r/FloatTank/comments/ertmnw/comment/ffddmen/?utm_source=share&amp;utm_medium=web2x&amp;context=3). Regrettably the DIY instructions in "The Deep Self" advised use of this material.
+</t>
 <t tx="metaperl.20220102161713.1"></t>
 <t tx="metaperl.20220102161744.1">800 to 1000 pounds might be OK. You have to figure the amount of water and dimensions of the tank into it.
 </t>
@@ -307,13 +314,16 @@ Sievers [poly tank supply](https://www.polytanksales.com/containment-tanks/575-g
 
 
 [Barn World](https://www.barnworld.com/cattle-guards/?product_link=round-poly-stock-tanks-1e0cceeb-61db-4dd1-8e90-8829d47afa6786cdee26-0c1f-4812-afbb-b4ac6407c4e7) has me drooling with this perfectly circular 8' diameter containment tank.
+
+[NTO Tank](https://www.ntotank.com/) also has a wide range of products.
 </t>
 <t tx="metaperl.20220104052444.1">@language md
 
 Ryan Lawson [recommends](https://www.reddit.com/r/FloatTank/comments/4qbfmw/comment/dax43u1/?utm_source=share&amp;utm_medium=web2x&amp;context=3) buying a chamois. He uses the chamois to get  as dry as possible while standing in the tank. Then he rings the water back into the tank. This helps keep your salt and water in the tank.</t>
 <t tx="metaperl.20220104053447.1">@language md
 
-[Intex](https://intexcorp.com/) makes a nice variety of pumps and filters that can be leveraged for a DIY tank.
+[Intex](https://intexcorp.com/) makes a nice variety of pumps and filters that can be leveraged for a DIY tank. The `Krystal Clear Cartridge Filter Pump for Above Ground Pools, 1000 GPH Pump Flow Rate, 110-120V with GFCI` model has been [used successfully](https://www.reddit.com/r/FloatTank/comments/6vki31/comment/dm1dpsg/?utm_source=share&amp;utm_medium=web2x&amp;context=3)
+
 </t>
 <t tx="metaperl.20220104054839.1">@language md
 
@@ -327,6 +337,16 @@ https://www.youtube.com/watch?v=4YAFJM5nzkA
 
 [All Pond Solutions](https://www.allpondsolutions.co.uk/) has a stock product, the CUP-359, that [zen float co used for the first versions of their tent](https://www.reddit.com/r/FloatTank/comments/qgtkv9/where_to_buy_replacement_pumpfilter_for_zen_float/).
 
+</t>
+<t tx="metaperl.20220104070502.1">@language md
+
+[A reddit user named mescid](https://www.reddit.com/user/mescid/) posted [his floatation tank with build instructions](https://imgur.com/gallery/wLcFb). If you are adept with mechanics, then you may find success. I will stick with the builds a grandmother can do.
+
+He discusses his build [here](https://www.reddit.com/r/FloatTank/comments/83sv20/i_built_a_float_tank_in_my_house/).
+
+
+</t>
+<t tx="metaperl.20220104073011.1">https://www.facebook.com/groups/362745410583702/
 </t>
 </tnodes>
 </leo_file>
