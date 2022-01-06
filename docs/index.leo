@@ -14,10 +14,7 @@
 </v>
 </v>
 <v t="metaperl.20191124092807.1"><vh>Anatomy of an Isolation Tank</vh>
-<v t="metaperl.20220102161504.1"><vh>Epsom Salt</vh>
-<v t="metaperl.20220102161713.1"><vh>Acquiring</vh></v>
-<v t="metaperl.20220102161744.1"><vh>Amount</vh></v>
-</v>
+<v t="metaperl.20220102161504.1"><vh>Epsom Salt</vh></v>
 <v t="metaperl.20220102161520.1"><vh>The Container</vh>
 <v t="metaperl.20220102164057.1"><vh>The Tub</vh></v>
 <v t="metaperl.20220102164108.1"><vh>The Top</vh></v>
@@ -78,6 +75,10 @@
 <v t="metaperl.20220104052444.1"><vh>Tank Use</vh></v>
 <v t="metaperl.20220103001729.1"><vh>Equipment</vh>
 <v t="metaperl.20220104053447.1"><vh>Water Filtration</vh></v>
+<v t="metaperl.20220105030707.1"><vh>Epsom Salt</vh>
+<v t="metaperl.20220105030856.1"><vh>USA / Canada</vh></v>
+<v t="metaperl.20220105033429.1"><vh>Australia</vh></v>
+</v>
 <v t="metaperl.20220103032756.1"><vh>The Tub</vh>
 <v t="metaperl.20220103032803.1"><vh>Dock Floats</vh></v>
 <v t="metaperl.20220103033007.1"><vh>Containment Tanks</vh></v>
@@ -159,9 +160,16 @@ Without any further adieu, let's see just what makes a tank tick:
 Now that we have a conceptual overview of the nuts and bolts that go into making a tank, we can actually look at diy tanks that have actually been built. Some tanks require very little technical skill and others are quite involved. Some are impossible to build because the instructions are severely lacking.
 
 &lt;toc&gt;&lt;/toc&gt;</t>
-<t tx="metaperl.20191124100440.1">I developed the Black Beauty isolation tank. It requires little to no building expertise and can be put together quickly.
+<t tx="metaperl.20191124100440.1"># &lt;a id='blackbeauty'&gt;&lt;/a&gt;The Black Beauty
+
+
+I developed the Black Beauty isolation tank. It requires little to no building expertise and can be put together quickly.
 
 http://www.thedeepself.org/tank-plans/version-2b/
+
+Here are some pictures:
+https://photos.app.goo.gl/aPNS8ssTvudjv6nw6
+
 
 </t>
 <t tx="metaperl.20191128032627.1">There are a few reasons to consider building your own tank instead of buying one. 
@@ -189,15 +197,19 @@ So that was my specific case. But what you use to probe water temperature and co
 </t>
 <t tx="metaperl.20220102161504.1">Originally tanks used table (?) salt, which had a tendency to burn quite a bit. One fine day, the good doctor thought: "hey how about Epsom Salt" and all apostles of floatation have followed suit from that day hence.
 
+800-1000 pounds is needed for 10-12 inches of water in a tank measuring 8'x4'.
+
 </t>
 <t tx="metaperl.20220102161520.1">@language md
 
 A tank is designed to hold water and salt and keep out light and sound. 
 
 Be sure to [avoid spray polyurethane foam when building a tank](https://www.reddit.com/r/FloatTank/comments/ertmnw/comment/ffddmen/?utm_source=share&amp;utm_medium=web2x&amp;context=3). Regrettably the DIY instructions in "The Deep Self" advised use of this material.
-</t>
-<t tx="metaperl.20220102161713.1"></t>
-<t tx="metaperl.20220102161744.1">800 to 1000 pounds might be OK. You have to figure the amount of water and dimensions of the tank into it.
+
+# BIG CAVEAT
+
+I just did some research on the height of doors and they are 80inches high and 36 inches wide. So my dreams of using an 8' diameter containment tank are dashed on the rocks.
+
 </t>
 <t tx="metaperl.20220102163527.1">@language md
 
@@ -306,7 +318,7 @@ But of course you have cut out all the buoyant foam they put inside of it. And t
 </t>
 <t tx="metaperl.20220103033007.1">@language md
 
-Two 360 gallon containment tanks is how the Black Beauty was built. I wouldnt mind a little extra height in one or both tanks, but it worked.
+Two 360 gallon containment tanks is how the [Black Beauty](#blackbeauty) was built. I wouldnt mind a little extra height in one or both tanks, but it worked.
 
 Rhino has a [300 gallon tank](https://www.jmesales.com/rhino-tuff-tanks-rtt-4043-300-gallon-secondary-containment-vessel/) that has more height and is 50% cheaper than anything I have seen.
 
@@ -315,7 +327,7 @@ Rhino has a [300 gallon tank](https://www.jmesales.com/rhino-tuff-tanks-rtt-4043
 Sievers [poly tank supply](https://www.polytanksales.com/containment-tanks/575-gallon-containment-tank-black.html) has a 575 gallon tank which creates that extra height. 
 
 
-[Barn World](https://www.barnworld.com/cattle-guards/?product_link=round-poly-stock-tanks-1e0cceeb-61db-4dd1-8e90-8829d47afa6786cdee26-0c1f-4812-afbb-b4ac6407c4e7) has me drooling with this perfectly circular 8' diameter containment tank.
+[Barn World](https://www.barnworld.com/cattle-guards/?product_link=round-poly-stock-tanks-1e0cceeb-61db-4dd1-8e90-8829d47afa6786cdee26-0c1f-4812-afbb-b4ac6407c4e7) has me drooling with this perfectly circular 8' diameter containment tank. 
 
 [NTO Tank](https://www.ntotank.com/) also has a wide range of products.
 </t>
@@ -349,6 +361,20 @@ He discusses his build [here](https://www.reddit.com/r/FloatTank/comments/83sv20
 
 </t>
 <t tx="metaperl.20220104073011.1">https://www.facebook.com/groups/362745410583702/
+</t>
+<t tx="metaperl.20220105030707.1">A very common question is 'where do I get epsom salt'? And another common question has to do with buying pharmaceutical vs agriculture grade. I've always purchased agriculture grade.
+</t>
+<t tx="metaperl.20220105030856.1">@language md
+
+Let's go ahead and break down the places to get salt and the rough cost per pound
+
+* San Francisco Bath Salt Co is a particular brand of [EPSoak](https://epsoak.com/) which has 800 pounds for $391 or just under 50 cents a pound. Call to inquire about shipping costs.
+* I have typically bought from a place that was named Agricultural Garden Supply. It was renamed Crop Production Services. Now they are called [Nutrien](https://www.nutrien.com/). I've been able to drive directly to their supply houses in both Columbus, OH and South Florida. They have quite a few all over (including Canada).
+* [Walmart](https://www.walmart.com/search?q=epsom+salt) charges $5.00 for 8 pounds which is 63 cents per pound.
+</t>
+<t tx="metaperl.20220105033429.1">
+https://www.thesaltbox.com.au/natural-epsom-salts-25kg-bittersalz-food-grade/
+
 </t>
 </tnodes>
 </leo_file>
