@@ -160,7 +160,7 @@ Without any further adieu, let's see just what makes a tank tick:
 Now that we have a conceptual overview of the nuts and bolts that go into making a tank, we can actually look at diy tanks that have actually been built. Some tanks require very little technical skill and others are quite involved. Some are impossible to build because the instructions are severely lacking.
 
 &lt;toc&gt;&lt;/toc&gt;</t>
-<t tx="metaperl.20191124100440.1"># &lt;a id='blackbeauty'&gt;&lt;/a&gt;The Black Beauty
+<t tx="metaperl.20191124100440.1"># &lt;a id='blackbeauty'&gt;&lt;/a&gt; The Black Beauty
 
 
 I developed the Black Beauty isolation tank. It requires little to no building expertise and can be put together quickly.
@@ -327,10 +327,12 @@ Rhino has a [300 gallon tank](https://www.jmesales.com/rhino-tuff-tanks-rtt-4043
 Sievers [poly tank supply](https://www.polytanksales.com/containment-tanks/575-gallon-containment-tank-black.html) has a 575 gallon tank which creates that extra height. 
 
 
-[Barn World](https://www.barnworld.com/cattle-guards/?product_link=round-poly-stock-tanks-1e0cceeb-61db-4dd1-8e90-8829d47afa6786cdee26-0c1f-4812-afbb-b4ac6407c4e7) has me drooling with this perfectly circular 8' diameter containment tank. 
 
 [NTO Tank](https://www.ntotank.com/) also has a wide range of products.
-</t>
+
+
+
+[Barn World](https://www.barnworld.com/cattle-guards/?product_link=round-poly-stock-tanks-1e0cceeb-61db-4dd1-8e90-8829d47afa6786cdee26-0c1f-4812-afbb-b4ac6407c4e7) has me drooling with this perfectly circular 8' diameter containment tank. But it is too large for a standard door, so forget it.</t>
 <t tx="metaperl.20220104052444.1">@language md
 
 Ryan Lawson [recommends](https://www.reddit.com/r/FloatTank/comments/4qbfmw/comment/dax43u1/?utm_source=share&amp;utm_medium=web2x&amp;context=3) buying a chamois. He uses the chamois to get  as dry as possible while standing in the tank. Then he rings the water back into the tank. This helps keep your salt and water in the tank.</t>
